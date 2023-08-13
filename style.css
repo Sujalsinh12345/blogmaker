@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#drop-area {
+    text-align: center;
+    padding: 50px;
+}
+
+.drop-container {
+    border: 2px dashed #ccc;
+    padding: 20px;
+}
+
+.dragging {
+    border-color: #888;
+}
+
+.file-item {
+    margin: 5px;
+}
